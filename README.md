@@ -1,2 +1,2 @@
 # rounded-colorfull
-Rounded Colorfull DIscord theme
+coming soon...
